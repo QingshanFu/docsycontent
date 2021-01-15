@@ -1,6 +1,6 @@
 
 ---
-title: "Welcome to Docsy - Update test"
+title: "Welcome to Docsy"
 linkTitle: "Documentation"
 menu:
   main:
